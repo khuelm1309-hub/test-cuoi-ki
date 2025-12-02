@@ -1,0 +1,1 @@
+Dự án này là một website review phim với giao diện đơn giản, dễ dùng và cập nhật nhanh các đánh giá về những bộ phim đang được quan tâm. Chủ đề tập trung vào trải nghiệm xem phim, bao gồm thông tin phim, điểm số, ưu – nhược điểm và gợi ý dành cho người xem. 
